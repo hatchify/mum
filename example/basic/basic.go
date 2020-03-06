@@ -4,7 +4,7 @@ import (
 	"bytes"
 	"log"
 
-	"github.com/itsmontoya/mum"
+	"github.com/hatchify/mum"
 )
 
 func main() {
