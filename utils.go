@@ -4,7 +4,7 @@ import (
 	"encoding/binary"
 	"unsafe"
 
-	"github.com/Hatch1fy/errors"
+	"github.com/hatchify/errors"
 )
 
 const (
